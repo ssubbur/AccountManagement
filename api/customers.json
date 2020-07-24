@@ -1,0 +1,61 @@
+[
+    {
+        "firstName": "Stewie",
+        "lasName": "Griffin",
+        "customerId": "777",
+        "accounts": [
+            {
+                "accountNumber": "1234",
+                "balance": 100.00
+            }
+        ]
+    },
+    {
+        "firstName": "Glenn",
+        "lasName": "Quagmire",
+        "customerId": "504",
+        "accounts": [
+            {
+                "accountNumber": "2001",
+                "balance": 35000.00
+            }
+        ]
+    },
+    {
+        "firstName": "Joe",
+        "lasName": "Swanson",
+        "customerId": "002",
+        "accounts": [
+            {
+                "accountNumber": "1010",
+                "balance": 7425.00
+            },
+            {
+                "accountNumber": "5500",
+                "balance": 15000.00
+            }
+        ]
+    },
+    {
+        "firstName": "Peter",
+        "lasName": "Griffin",
+        "customerId": "123",
+        "accounts": [
+            {
+                "accountNumber": "0123",
+                "balance": 150.00
+            }
+        ]
+    },
+    {
+        "firstName": "Lois",
+        "lasName": "Griffin",
+        "customerId": "456",
+        "accounts": [
+            {
+                "accountNumber": "0456",
+                "balance": 65000.00
+            }
+        ]
+    }
+]
